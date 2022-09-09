@@ -1,19 +1,11 @@
 #include <stdio.h>
-
-
-
 /**
-
- * main - prints all single digit numbers of base 10 starting from 0,
-
- * followed by a new line, using putchar
-
- * Return: Always 0 (Success)
-
+ * main - prints all single digit numbers of base 10
+ * Description: using the main function thi
+ * program prints single digit numbers of base 10 starting from 0
+ * Return: 0 
  */
-
 int main(void)
-
 {
 
 	int n;
@@ -31,5 +23,4 @@ int main(void)
 	putchar('\n');
 
 	return (0);
-
 }
