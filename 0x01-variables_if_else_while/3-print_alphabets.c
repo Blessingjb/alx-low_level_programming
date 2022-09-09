@@ -1,10 +1,12 @@
+#include <stdio.h>
+
+
+
 /**
 
- * main - Prints the alphabet,
+ * main - prints the alphabet in lowercase, and then in uppercase,
 
- * Description: Alphabet is printed out in lowercase,
-
- * and also in uppercase
+ * followed by a new line
 
  * Return: Always 0 (Success)
 
